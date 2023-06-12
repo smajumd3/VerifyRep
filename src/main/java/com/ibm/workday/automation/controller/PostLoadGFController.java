@@ -495,7 +495,7 @@ public class PostLoadGFController implements CommonConstants{
 			obj.put("operationName", "Assign Organization");
 			objArr.put(obj);
 			obj = new JSONObject();
-			obj.put("operationName", "System User");
+			obj.put("operationName", "System User1");
 			objArr.put(obj);
 			obj = new JSONObject();
 			obj.put("operationName", "Edit Additional Data");

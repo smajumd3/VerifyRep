@@ -1,0 +1,6 @@
+---
+applications:
+- name: Hyperloader
+  instances: 1
+  host: Hyperloader
+  path: target/Hyperloader.war
